@@ -15,3 +15,5 @@
 127.0.0.1 - - [20/Feb/2016:19:58:14 +0000] "GET /examples/servlets/images/code.gif HTTP/1.1" 200 292
 127.0.0.1 - - [20/Feb/2016:19:58:18 +0000] "GET /examples/servlets/servlet/HelloWorldExample HTTP/1.1" 200 400
 127.0.0.1 - - [20/Feb/2016:19:58:34 +0000] "GET /examples/servlets/helloworld.html HTTP/1.1" 200 2612
+127.0.0.1 - - [20/Feb/2016:20:33:11 +0000] "GET / HTTP/1.1" 200 11452
+127.0.0.1 - - [20/Feb/2016:20:43:27 +0000] "GET / HTTP/1.1" 200 11452
